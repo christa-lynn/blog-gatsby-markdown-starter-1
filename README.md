@@ -4,6 +4,8 @@ permalink: /index.html
 
 # Blog 1: Gatsby + Markdown
 
+<button>[View Live Demo on Github Pages](https://christa-lynn.github.io/blog-gatsby-markdown-starter-1/)</button>
+
 ## Overview
 
 This repository features a static website built with Gatsby and a Markdown blog CMS. The project began by installing the [Gatsby Default Starter](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-default) boilerplate, however files, folders, and dependencies have been both uninstalled and added for customization.
