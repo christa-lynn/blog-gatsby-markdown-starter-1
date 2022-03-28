@@ -5,6 +5,7 @@ module.exports = {
     author: `Christa Lynn`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
+  pathPrefix: "/blog-gatsby-markdown-starter-1",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,

@@ -25,6 +25,7 @@
     "react-icons": "^4.3.1"
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "prettier": "^2.6.0"
   },
   "keywords": [
@@ -38,6 +39,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
