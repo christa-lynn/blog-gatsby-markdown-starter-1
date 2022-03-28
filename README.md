@@ -1,3 +1,7 @@
+--- 
+permalink: /index.html
+---
+
 # Blog 1: Gatsby + Markdown
 
 ## Overview

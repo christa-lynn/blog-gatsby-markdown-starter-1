@@ -1,7 +1,6 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import "../components/layout.css"
-import Categories from "./Categories"
 import Footer from "./Footer"
 import Topnav from "./Topnav"
 
