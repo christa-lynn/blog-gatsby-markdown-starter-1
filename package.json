@@ -3,7 +3,6 @@
   "private": true,
   "description": "A static website and Markdown blog built with Gatsby",
   "version": "0.1.0",
-  "homepage": " https://christa-lynn.github.io/blog-gatsby-markdown-starter-1/",
   "author": "Christa Lynn <contact.christalynn@gmail.com>",
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
