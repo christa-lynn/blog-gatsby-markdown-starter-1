@@ -4,7 +4,7 @@
 
 This repository features a static website built with Gatsby and a Markdown blog CMS. The project began by installing the [Gatsby Default Starter](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-default) boilerplate, however files, folders, and dependencies have been both uninstalled and added for customization.
 
-_Have questions, comments, or collaboration ideas? Feel free to contact me at [contact.christalynn@gmail.com](contact.christalynn@gmail.com) or connect here at [github.com/christa-lynn](https://github.com/christa-lynn)._
+_Have questions, comments, or collaboration ideas? Feel free to contact me at contact.christalynn@gmail.com or connect here at [github.com/christa-lynn](https://github.com/christa-lynn)._
 
 ## Dependencies
 
@@ -27,7 +27,7 @@ For quick reference, links to use and installation docs are included in the list
 * [react](https://www.npmjs.com/package/react)
 * [react-dom](https://www.npmjs.com/package/react-dom)
 * [react-helmet](https://www.npmjs.com/package/react-helmet)
-* [react-icons](https://react-icons.github.io)
+* [react-icons](https://react-icons.github.io/react-icons/)
 
 ## Dev Dependencies
 
@@ -45,7 +45,7 @@ For quick reference, links to use and installation docs are included in the list
 BSD Zero Clause License
 
 ### Permissions
-:white_check_mark: Commercial :white_check_mark: Use  
+:white_check_mark: Commercial Use  
 :white_check_mark: Distribution  
 :white_check_mark: Modification  
 :white_check_mark: Private Use
