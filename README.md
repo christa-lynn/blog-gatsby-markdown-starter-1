@@ -1,7 +1,3 @@
---- 
-permalink: /index.html
----
-
 # Blog 1: Gatsby + Markdown
 
 <button>[View Live Demo on Github Pages](https://christa-lynn.github.io/blog-gatsby-markdown-starter-1/)</button>
