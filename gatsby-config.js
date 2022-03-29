@@ -1,11 +1,11 @@
 module.exports = {
+  pathPrefix: "/blog-gatsby-markdown-starter-1",
   siteMetadata: {
     title: `Gatsby Markdown Blog Starter 1`,
     description: `A static website built with Gatsby featuring a Markdown blog CMS.`,
     author: `Christa Lynn`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
-  pathPrefix: "/blog-gatsby-markdown-starter-1",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
