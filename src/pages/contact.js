@@ -7,7 +7,7 @@ import { FaGithubAlt } from "react-icons/fa"
 const contact = () => {
   return (
     <Layout>
-      <Seo title="contact" />
+      <Seo title="Contact" />
       <div className="main-content">
         <h1>Get in Touch</h1>
         <a href="https://twitter.com/christalynn_RD">

@@ -2,10 +2,12 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../../components/Layout"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import Seo from "../../components/Seo"
 
 const blogListPage = ({ data }) => {
   return (
     <Layout pageTitle="My Blog Posts">
+      <Seo title="Blog" />
       <div className="main-content">
         {data.allMdx.nodes.map(node => {
           let image = getImage(node.frontmatter.banner_img)

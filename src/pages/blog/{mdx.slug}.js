@@ -3,12 +3,14 @@ import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import Layout from "../../components/Layout"
+import Seo from "../../components/Seo"
 
 const blogPost = ({ data }) => {
   const image = getImage(data.mdx.frontmatter.banner_img)
 
   return (
     <Layout pageTitle={data.mdx.frontmatter.title}>
+      <Seo title={data.mdx.frontmatter.title} />
       <div className="main-content">
         <p>{data.mdx.frontmatter.date}</p>
         <p>{data.mdx.frontmatter.category}</p>
