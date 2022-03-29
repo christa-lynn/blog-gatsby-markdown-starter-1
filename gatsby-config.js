@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/blog-gatsby-markdown-starter-1",
   siteMetadata: {
     title: `Gatsby Markdown Blog Starter 1`,
     description: `A static website built with Gatsby featuring a Markdown blog CMS.`,
